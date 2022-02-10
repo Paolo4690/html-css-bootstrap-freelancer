@@ -1,0 +1,10 @@
+:root {
+    --bg_header: #2c3e50;
+    --bg_section_green: #1abc9c;
+    --bg_footer: #3a546d;
+    --square: #ba5b63;
+}
+
+header {
+    background-color: var(--bg_header);
+}
