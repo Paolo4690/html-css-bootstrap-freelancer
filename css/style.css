@@ -2,6 +2,7 @@
     --bg_header: #2c3e50;
     --bg_section_green: #1abc9c;
     --bg_footer: #3a546d;
+    --footer_bottom: #2c3e50;
     --square: #ba5b63;
 }
 
@@ -16,4 +17,12 @@ header {
 .square {
     height: 160px;
     background-color: var(--square);
+}
+
+.footer_top {
+    background-color: var(--bg_footer);
+}
+
+.footer_bottom {
+    background-color: var(--footer_bottom);
 }
