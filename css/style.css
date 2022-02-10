@@ -8,3 +8,12 @@
 header {
     background-color: var(--bg_header);
 }
+
+.section_green {
+    background-color: var(--bg_section_green);
+}
+
+.square {
+    height: 160px;
+    background-color: var(--square);
+}
