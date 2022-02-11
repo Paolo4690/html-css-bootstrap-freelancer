@@ -26,6 +26,14 @@ header {
     background-color: var(--footer_bottom);
 }
 
+.nav_link {
+    color: #fff;
+}
+
+.nav_link:hover {
+    color: #1abc9c;
+}
+
 .line-star {
     height: 4px;
     max-width: 80px;
@@ -78,5 +86,6 @@ header {
 }
 
 .footer_link-green:hover {
-    color: #ffffff;
+    color: #1ca88c;
+    text-decoration: underline;
 }
