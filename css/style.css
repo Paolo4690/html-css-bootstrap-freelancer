@@ -14,9 +14,8 @@ header {
     background-color: var(--bg_section_green);
 }
 
-.square {
-    height: 160px;
-    background-color: var(--square);
+.square_img {
+    height: 250px;
 }
 
 .footer_top {
@@ -31,4 +30,20 @@ header {
     height: 4px;
     max-width: 80px;
     width: 100%;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(26, 188, 156, 0.7);
+    display: none;
+    cursor: pointer;
+}
+
+.img-container:hover .overlay{
+    display: inline-block;
+    
+}
+.fa-plus {
+    font-size: 5rem;
 }
