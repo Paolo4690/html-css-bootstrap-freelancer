@@ -26,3 +26,9 @@ header {
 .footer_bottom {
     background-color: var(--footer_bottom);
 }
+
+.line-star {
+    height: 4px;
+    max-width: 80px;
+    width: 100%;
+}
