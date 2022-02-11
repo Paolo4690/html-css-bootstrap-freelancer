@@ -44,6 +44,39 @@ header {
     display: inline-block;
     
 }
+
 .fa-plus {
     font-size: 5rem;
+}
+
+.btn-my_green {
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+
+.btn-my_green:hover {
+    color: #fff;
+}
+
+.btn-my_green:focus {
+    background-color:#24dab5;
+}
+
+/* textarea {
+    height: 180px;  NON FUNZIONA
+} */
+
+.cont_social {
+    height: 60px;
+    width: 60px;
+}
+
+.footer_link-green {
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.footer_link-green:hover {
+    color: #ffffff;
 }
