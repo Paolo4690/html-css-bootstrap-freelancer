@@ -71,9 +71,9 @@ header {
     background-color:#24dab5;
 }
 
-/* textarea {
-    height: 180px;  NON FUNZIONA
-} */
+#floatingTextarea {
+    height: 180px;  
+} 
 
 .cont_social {
     height: 60px;
