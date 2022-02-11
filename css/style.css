@@ -26,11 +26,11 @@ header {
     background-color: var(--footer_bottom);
 }
 
-.nav_link {
-    color: #fff;
+#nav_link {
+    color: #fff; 
 }
 
-.nav_link:hover {
+#nav_link:hover {
     color: #1abc9c;
 }
 
