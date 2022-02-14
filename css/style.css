@@ -40,6 +40,10 @@ header {
     width: 100%;
 }
 
+.section_green h3 {
+    font-size: .9rem;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
@@ -88,4 +92,14 @@ header {
 .footer_link-green:hover {
     color: #1ca88c;
     text-decoration: underline;
+}
+.torna_su a{
+    color: #000;
+}
+.torna_su {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    font-size: 3rem;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, .4);
 }
